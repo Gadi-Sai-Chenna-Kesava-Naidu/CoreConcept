@@ -7,7 +7,7 @@ public class ArraysDemo {
 	public static void main(String[] args) {
 		
 		String[] names ;
-		names = new String[6];
+		names = new String[7];
 		
 		names[0] = "Siddhu";      //one way to store the value
 		names[1] = "Harsha";
@@ -15,6 +15,7 @@ public class ArraysDemo {
 		names[3] = "deeksha";
 		names[4] = "nikshita";
 		names[5] = "deekshita";
+		
 		
 		System.out.println(Arrays.toString(names));
 		
